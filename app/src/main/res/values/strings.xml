@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">易贝恩</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">设置</string>
+
+    <string name="nav_tools">工具</string>
+    <string name="nav_import">导入</string>
+    <string name="nav_gallery">画廊</string>
+    <string name="nav_slideshow">幻灯片</string>
+    <string name="nav_communicate">社交</string>
+    <string name="nav_share">分享</string>
+    <string name="nav_send">发布</string>
+    <string name="header_text">管理员</string>
+    <string name="header_content">北京易贝恩项目管理科技有限公司</string>
+    <string name="btn_mark_unread">标记未读</string>
+    <string name="btn_offline_reading">离线阅读</string>
+    <string name="title_article_detail">title_article_detail</string>
+    <string name="btn_refresh">刷新</string>
+</resources>
